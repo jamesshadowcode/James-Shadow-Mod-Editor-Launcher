@@ -1,0 +1,43 @@
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.exe.config
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.MainWindow.resources
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.Properties.Resources.resources
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csproj.GenerateResource.Cache
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.exe
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.pdb
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.Credits.resources
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.exe
+C:\Users\Demonial\Dropbox\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.pdb
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.exe.config
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.exe
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.pdb
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.Credits.resources
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.MainWindow.resources
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.Properties.Resources.resources
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csproj.GenerateResource.Cache
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.exe
+C:\Users\Demonial\Desktop\Launcher Tutorial\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.pdb
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.exe.config
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.exe
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.pdb
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csprojAssemblyReference.cache
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.Credits.resources
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.MainWindow.resources
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.Properties.Resources.resources
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csproj.GenerateResource.cache
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csproj.CoreCompileInputs.cache
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.exe
+C:\Users\UsBo_0\Desktop\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.pdb
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.exe.config
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.exe
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\bin\Debug\LauncherTemplate.pdb
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csprojAssemblyReference.cache
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.Credits.resources
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.MainWindow.resources
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.Properties.Resources.resources
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csproj.GenerateResource.cache
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.csproj.CoreCompileInputs.cache
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.exe
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.pdb
+C:\Users\UsBo_0\Desktop\VARIE\Tutorial Launcher\LauncherTemplate\LauncherTemplate\obj\Debug\LauncherTemplate.About.resources
